@@ -1,0 +1,17 @@
+config 
+
+
+git config --global user.name "username"
+git config --global user.email "email"
+
+
+
+push commands  
+
+
+
+git init 
+git add
+git remote add origin "url"
+git commit -m "commit_label"
+git push -u origin master
