@@ -26,3 +26,13 @@ second push
 git add .
 git commit -m "commit_label"
 git push
+
+
+branch create
+
+git branch branchname 
+git status
+git checkout branchname
+
+
+git push -u origin user(branchname)
