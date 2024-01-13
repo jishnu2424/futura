@@ -36,3 +36,13 @@ git checkout branchname
 
 
 git push -u origin user(branchname)
+
+
+clone
+
+git clone "link"
+
+
+pull 
+
+git pull "link"
